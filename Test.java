@@ -8,6 +8,8 @@ class Test {
 
     String b = A.next();
     System.out.println("lololo " + b + " lololo");
+    
+    System.out.println("haha")
   }
 
 }
